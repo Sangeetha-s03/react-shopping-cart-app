@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "image" : "baby-1.jpeg",
+        "name" : "New Born Baby",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 1899"
+    },
+    {
+        "id":2,
+        "image" : "baby-2.jpeg",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 899"
+    },
+    {
+        "id":3,
+        "image" : "baby-3.webp",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 2000"
+    },
+    {
+        "id":4,
+        "image" : "baby-4.webp",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 500"
+    },
+    {
+        "id":5,
+        "image" : "baby-5.webp",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 500"
+    },
+    {
+        "id":6,
+        "image" : "baby-6.webp",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 500"
+    },
+    {
+        "id":7,
+        "image" : "baby-3.webp",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 500"
+    },
+    {
+        "id":8,
+        "image" : "baby-4.webp",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 500"
+    },
+    {
+        "id":9,
+        "image" : "baby-6.webp",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 500"
+    },
+    {
+        "id":10,
+        "image" : "baby-1.jpeg",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 500"
+    },
+    {
+        "id":11,
+        "image" : "baby-5.webp",
+        "name" : "Indo Era",
+        "description" : "Kurta With Trousers",
+        "price" : "Rs. 500"
+    }
+]

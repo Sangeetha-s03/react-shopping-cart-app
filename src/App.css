@@ -1,0 +1,180 @@
+
+.App-header {
+  /* background-color: #282c34; */
+  /* background-color: #F5E3F2; */
+  min-height: 100vh;
+  font-size: calc(8px + 2vmin);
+  /* color: white; */
+}
+
+.website-header{
+  font-family: 'Dancing Script', cursive;
+	font-size: 40px;
+	margin-bottom: 3px;
+  font-style : italic;
+  text-align: center;
+	width: 100%;
+  height: 300%;
+  position: relative;
+}
+
+.website-header .overlay{
+  width: 100%;
+  height: 100%;
+	padding: 10px;
+  color: #c04343;
+  text-shadow: 1px 1px 1px #ad5353;
+}
+
+.website-header .overlay img{
+  height : 400px;
+}
+
+.list-row{
+  display: flex;
+  width : 100%;
+}
+
+.left-items , .movies-left-items{
+  margin-top : 10px;
+  float: left;
+  
+}
+
+.movies-left-items ul li{
+  width : 220px;
+  padding : 15px 5px 5px 5px !important;
+  margin-top : 5px;
+}
+
+.left-items ul li , .movies-left-items ul li , .right-items ul li{
+  list-style: none;
+  text-wrap: nowrap;
+  padding : 5px 5px 5px 5px;
+  border: 1px solid white; /*#e083f6;*/
+  border-radius: 5px;
+  /* -color: #219C90; */
+  background-color: white; /*#F5E3F2;*/
+  color:black;
+}
+
+.right-items {
+  /* display: flex;
+  flex-direction: column; 
+  float: right; */
+  margin-left : 5px;
+}
+
+.movies-right-items div{
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+/* .movies-right-items,.movies-right-items ul {
+  width: 900px;
+} */
+
+.movies-right-items ul li, .movies-right-items ul li img{
+  width : 175px;
+  height: 220px; 
+  margin : 10px 25px 10px 0px;
+  display: inline-block !important;
+}
+
+.cart-items span{
+  display : block;
+  text-wrap: nowrap;
+  width : 40px;
+  font-size: 12px;
+  margin-left : 5px;
+  color:black;
+}
+
+.item-details{
+  font-size: calc(8px + 2vmin);
+  color: black;
+}
+
+.detail-items{
+  display: flex;
+  width : 100%;
+}
+
+.detail-items-left img{
+  width : 300px;
+  height: 400px;
+  float: left; 
+  padding : 45px;
+}
+
+.detail-items-right{
+  display: flex;
+  flex-direction: column; 
+  float: right; 
+  width : 600px;
+  margin-left: 25px;
+}
+
+.detail-items-right span{
+  margin-top: 15px;
+}
+
+.go-back {
+  padding : 3px 120px 5px 10px;
+  float: right;
+}
+
+.item-content{
+  display: flex;
+  width : 900px;
+} 
+
+.item-content span{  
+  font-size: 12px;
+}
+
+.item-content-left{
+  float: left; 
+  display: flex;
+  flex-direction: column; 
+  width : 300px;
+}
+
+.item-content-right{
+  float: right; 
+}
+
+.cart-badge{
+  float: right; 
+  margin-top: 5px;
+}
+
+.cart-list-row{
+  margin-left : 150px;
+  margin-top : 20px;
+  display: flex;
+  width : 500px;
+} 
+
+.cart-item-left{
+  float: left; 
+  display: flex;
+  flex-direction: column; 
+  width : 300px;
+}
+
+.cart-item-left img{
+ width : 160px;
+ height: 180px;
+}
+
+.cart-item-right{
+  float: right; 
+  width : 400px;
+}
+
+.cart-item-right span{  
+  font-size: 20px;
+  display: flex;
+  flex-direction: column; 
+  color:black;  
+}

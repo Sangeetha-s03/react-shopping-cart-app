@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "name" : "New Arrivals",
+        "code" : "NA"
+    },
+    {
+        "id":2,
+        "name" : "Casuals",
+        "code" : "CA"
+    },
+    {
+        "id":3,
+        "name" : "Mens T-shirts",
+        "code" : "MT"
+    },
+    {
+        "id":4,
+        "name" : "Womens Kuritis",
+        "code" : "WK"
+    },
+    {
+        "id":5,
+        "name" : "New Born's New Arrivals",
+        "code" : "NB"
+    },
+    {
+        "id":6,
+        "name" : "Women's Nighties",
+        "code" : "WN"
+    },{
+        "id":7,
+        "name" : "Kids Wear",
+        "code" : "KW"
+    },
+    {
+        "id":8,
+        "name" : "Women's Sarees",
+        "code" : "WS"
+    },
+    {
+        "id":9,
+        "name" : "Men's Casuals",
+        "code" : "MC"
+    },
+    {
+        "id":10,
+        "name" : "Western Outfits",
+        "code" : "WO"
+    }
+]
