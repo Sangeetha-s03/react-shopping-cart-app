@@ -1,6 +1,4 @@
-# react-shopping-cart-app - Author Sangeetha
-
-# Getting Started with Create React App
+# Getting Started with Create React App ( react-shopping-cart-app )
 
 Copy the project by the following command
 
